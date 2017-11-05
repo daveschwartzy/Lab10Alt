@@ -1,0 +1,7 @@
+C:\Users\Dave\source\repos\Lab10Alt\Lab10Alt\bin\Debug\Lab10Alt.exe.config
+C:\Users\Dave\source\repos\Lab10Alt\Lab10Alt\bin\Debug\Lab10Alt.exe
+C:\Users\Dave\source\repos\Lab10Alt\Lab10Alt\bin\Debug\Lab10Alt.pdb
+C:\Users\Dave\source\repos\Lab10Alt\Lab10Alt\obj\Debug\Lab10Alt.csprojResolveAssemblyReference.cache
+C:\Users\Dave\source\repos\Lab10Alt\Lab10Alt\obj\Debug\Lab10Alt.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\Lab10Alt\Lab10Alt\obj\Debug\Lab10Alt.exe
+C:\Users\Dave\source\repos\Lab10Alt\Lab10Alt\obj\Debug\Lab10Alt.pdb
